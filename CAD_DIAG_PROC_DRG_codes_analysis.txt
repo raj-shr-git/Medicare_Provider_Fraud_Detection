@@ -1,0 +1,148 @@
+## PRV54986 and BENE30685 ## :: Yes :: Insc Claim Re-Imb Amt is 20000. Claim and admit duration is 5 days.
+
+-- Clm Admit Diagnosis code --
+99646 Articular bearing surface wear of prosthetic joint
+
+-- Clm Diagnosis codes
+99643 Broken prosthetic joint implant
+99811 Hemorrhage complicating a procedure
+3332  Myoclonus
+3051  Tobacco use disorder
+0414  NOT FOUND
+2761  Hyposmolality and/or hyponatremia
+32723 Obstructive sleep apnea (adult)(pediatric)
+
+-- Diagnosis Related Group Code --
+506 major thumb or joint procedures
+
+-- Given Procedure codes --
+8153 Revision of hip replacement, not otherwise specified
+412  Splenotomy --> This procedure is no where related to the diagnosis. Spleen removal is surgery to remove a diseased or damaged spleen. This surgery is called splenectomy. The spleen is in the upper part of the belly, on the left side underneath the ribcage.
+
+
+## PRV55912 and BENE22934 ## :: Yes :: Insc Claim Re-Imb Amt is 13000. Claim and admit duration is 4 days.
+
+-- Clm Admit Diagnosis code --
+71946 Pain in joint, lower leg
+
+-- Clm Diagnosis codes
+71535 Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh
+71960 Other symptoms referable to joint, site unspecified
+4019  Unspecified essential hypertension
+V1202 Personal history of poliomyelitis
+4240  Mitral valve disorders
+2449  Unspecified acquired hypothyroidism
+2768  Hypopotassemia
+
+-- Diagnosis Related Group Code --
+506 major thumb or joint procedures
+
+-- Given Procedure codes --
+8154 Total knee replacement
+
+
+## PRV55978 and BENE22934 ## :: NO :: Insc Claim Re-Imb Amt is 14000. Claim and admit duration is 3 days.
+
+-- Clm Admit Diagnosis code --
+49392 Asthma, unspecified type, with (acute) exacerbation
+
+-- Clm Diagnosis codes
+4660  Acute bronchitis
+34590 Epilepsy, unspecified, without mention of intractable epilepsy
+3441  Paraplegia
+27651 Dehydration
+2761  Hyposmolality and/or hyponatremia
+3575  Alcoholic polyneuropathy
+4254  Other primary cardiomyopathies
+73300 Osteoporosis, unspecified
+5180  Pulmonary collapse
+
+-- Diagnosis Related Group Code --
+180 RESPIRATORY NEOPLASMS WITH MCC
+
+-- Given Procedure codes --
+NaN
+
+
+## PRV55912 and BENE11001 ## :: Yes :: Insc Claim Re-Imb Amt is 26000 with no mention about medical procedures. Claim and admit duration is 6 days.
+
+-- Clm Admit Diagnosis code --
+7866  Swelling, mass, or lump in chest
+
+-- Clm Diagnosis codes
+1970  Secondary malignant neoplasm of lung. Secondary malignant neoplasm is a malignant tumor whose cause is the treatment (usually radiation or chemotherapy) which was used for a prior tumor
+4019  Unspecified essential hypertension
+5853  Chronic kidney disease, Stage III (moderate)
+7843  Aphasia -- It is a disorder that affects how you communicate. It can impact your speech, as well as the way you write and understand both spoken and written language. Aphasia usually happens suddenly after a stroke or a head injury.
+2768  Hypopotassemia -- hypokalemia a deficiency of potassium in the blood is called also hypopotassemia. Although equally dangerous, hypokalemia is less common in CKD patients, as impaired renal K excretion usually leads to hyperkalemia. CKD patients can, however, still develop hypokalemia due to gastrointestinal K loss from diarrhea or vomiting or renal K loss from non-K-sparing diuretics.
+71590 Osteoarthrosis, unspecified whether generalized or localized, site unspecified. Osteoarthrosis is a common disorder of synovial joints, seen most often in older patients. The joints affected most commonly are the knee, hip, hands and the first metatarsophalangeal joint.
+2724  Other and unspecified hyperlipidemia. Hyperlipidemia means your blood has too many lipids (or fats), such as cholesterol and triglycerides.
+19889 Secondary malignant neoplasm of other specified sites.
+5849  Acute kidney failure, unspecified
+
+-- Diagnosis Related Group Code --
+201 PNEUMOTHORAX WITHOUT CC/MCC -- it means a collapsed lung.(CC is complication and MCC is Major complication)
+
+-- Given Procedure codes --
+NaN
+
+
+## PRV55907 and BENE11001 ## :: Insc Claim Re-Imb Amt is 5000 with OPERATION of eyelids as medical procedure. Claim and admit duration is 3 days.
+
+-- Clm Admit Diagnosis code --
+6186  Vaginal enterocele, congenital or acquired
+
+-- Clm Diagnosis codes
+6186  Vaginal enterocele, congenital or acquired
+2948  Other persistent mental disorders due to conditions classified elsewhere
+56400 Constipation, unspecified
+
+-- Diagnosis Related Group Code --
+750 Other female reproductive system o.r. procedures without cc/mcc
+
+-- Given Procedure codes --
+7092 Other operations on cul-de-sac
+
+
+## PRV56046 and BENE11001 ##  :: Insc Claim Re-Imb Amt is 5000 with no mention about medical procedures. Claim and admit duration is 4 days.
+
+-- Clm Admit Diagnosis code --
+29590 Unspecified schizophrenia, unspecified
+
+-- Clm Diagnosis codes
+29623 Major depressive affective disorder, single episode, severe, without mention of psychotic behavior
+30390 Other and unspecified alcohol dependence, unspecified
+71690 Arthropathy, unspecified, site unspecified
+34590 Epilepsy, unspecified, without mention of intractable epilepsy
+V1581 Personal history of noncompliance with medical treatment, presenting hazards to health
+32723 Obstructive sleep apnea (adult)(pediatric)
+
+-- Diagnosis Related Group Code --
+883 Disorders of personality and impulse control
+
+-- Given Procedure codes --
+NaN
+
+
+## PRV52405 and BENE11011 ## :: Insc Claim Re-Imb Amt is 5000. Claim and admit duration is 8 days.
+
+-- Clm Admit Diagnosis code --
+431   Intracerebral hemorrhage
+
+-- Clm Diagnosis codes
+43491 Cerebral artery occlusion, unspecified with cerebral infarction
+2762  Acidosis
+7843  Aphasia
+32723 Obstructive sleep apnea (adult)(pediatric)
+V1041 Personal history of malignant neoplasm of cervix uteri
+4254  Other primary cardiomyopathies
+25062 Diabetes with neurological manifestations, type II or unspecified type, uncontrolled
+40390 Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified
+4019  Unspecified essential hypertension
+
+-- Diagnosis Related Group Code --
+067 nonspecific cva and precerebral occlusion without infarction with mcc
+
+-- Given Procedure codes --
+331  Incision of lung
+331 Drainage of Dura Mater with Drainage Device, Percutaneous Approach
